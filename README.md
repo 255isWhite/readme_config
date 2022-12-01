@@ -2,8 +2,8 @@
 
 <div align="center">
     <!-- an image which can properly describe this repository -->
-    <!-- images are stored under .git/images -->
-    <img src=".git/images/img.png" width="850">
+    <!-- images are stored under .github/images -->
+    <img src=".github/images/img.png" width="850">
     <p>
         This is a repository for README.md quick deploying.
     </p>
@@ -12,7 +12,7 @@
 **An example is available [here](https://github.com/255isWhite/S-CarSim)**
 
 
-English | [简体中文](.git/README_cn.md)
+English | [简体中文](.github/README_cn.md)
 
 </div>
 
